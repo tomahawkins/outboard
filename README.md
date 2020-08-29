@@ -51,7 +51,7 @@ within 15 minutes and Orcas Island in under an hour.
 repair articles written by Washington's own LeeRoy Wisner.
 
 - [OMC 2 Cycle Outboard Motor Info and Repair](https://www.leeroysramblings.com/Outboard%20Motor%20Related/OMC%20outboard%20related%20articles.html)
-- [Johnson/Evinrude 9.9 / 15 hp  General Info & Normal Repairs 1974 - 1992](https://www.leeroysramblings.com/Johnson%209.9_15.htm): required reading
+- [Johnson/Evinrude 9.9 / 15 hp  General Info & Normal Repairs 1974 - 1992](https://www.leeroysramblings.com/Johnson%209.9_15.htm) (**required reading**)
 
 
 # Units
