@@ -2,7 +2,7 @@
 
 Objectives:
 
-- Learn the operation of all major motor systems
+- Learn the operation of all major outboard motor systems
 - Diagnose common problems
 - Perform basic maintenance and major repairs
 
@@ -34,13 +34,13 @@ Outboard motors are amazingly well engineered machines.
 In a relatively small, light weight package, a tiller outboard motor makes up nearly 
 an entire vehicle system including fuel delivery, carburetion, powerhead,
 exhaust, cooling, drive, transmission, traction, and steering.
-All that's left to make a complete boat is a hull and a fuel tank.
+All that's remaining for a complete boat is a hull and a fuel tank.
 
 In this course we'll be wrenching on the OMC Johnson/Evinrude
 9.9 and 15 HP motors manufactured from 1974 to 1992.
-This motor is reliable, easy to work on, and parts are still readily available.
+This motor is reliable and easy to work on, with parts still readily available.
 It is light enough that two kids can lift it on to a motor stand or boat transom
-and yet has the power to pull an adult wakeboarder with a spotter in the boat.
+and yet has the power to pull an adult wakeboarder (with driver and spotter in boat).
 Mounted on a lightweight hull, the 15 HP will achieve 22 knots, putting Lummi Island
 within 15 minutes and Orcas Island in under an hour.
 
@@ -127,9 +127,6 @@ Cool!  Twin 15s!
 ## Water Passages and Thermostat Service
 
 ## Ignition Testing and Service
-
-
-
 
 
 
