@@ -32,7 +32,7 @@ Objectives:
 
 Outboard motors are amazingly well engineered machines.
 In a relatively small, light weight package, a tiller outboard motor makes up nearly 
-an entire vehicle system including fuel delivery, carburation, powerhead,
+an entire vehicle system including fuel delivery, carburetion, powerhead,
 exhaust, cooling, drive, transmission, traction, and steering.
 All that's left to make a complete boat is a hull and a fuel tank.
 
@@ -112,8 +112,21 @@ Cool!  Twin 15s!
 12) Replace propeller shaft bearing housing O-ring.
 13) Reinstall shaft bearing housing.
 14) Reinstall propeller.
-15) Install new waterpump.
+15) Install new water pump.
 16) Refill gearbox oil.
+
+
+## Powerhead Removal
+
+## Fuel Pump Rebuild
+
+## Carburetor Rebuild
+
+## Intake Manifold Rebuild
+
+## Water Passages and Thermostat Service
+
+
 
 
 
