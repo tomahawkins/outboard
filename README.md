@@ -71,6 +71,14 @@ The following sequence is a complete Johnson 15 HP rebuild (**required watching*
 - [Johnson 15 HP Rebuild Part 12; Starter and Finishing Touches](https://www.youtube.com/watch?v=3kQ3-kK2tRU)
 - [Johnson 15 HP Rebuild Part 13; Test Start](https://www.youtube.com/watch?v=SfhZI1dYwh8)
 
+How to remove the powerhead (**required watching**):
+
+- [How to Remove a Johnson/Evinrude 9.9 / 15 HP Powerhead](https://www.youtube.com/watch?v=c9s8i-MDeCc)
+
+Removing long shaft extension kit:
+
+- [Removing an Extension Kit from a 9.9 / 15 HP Outboard](https://www.youtube.com/watch?v=LGavqgFi8o4)
+
 Cool!  Twin 15s!
 
 - [Twin Johnson / Evinrude 15 HP Install Part 1](https://www.youtube.com/watch?v=DJ9eL32xAM0)
