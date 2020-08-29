@@ -36,7 +36,7 @@ an entire vehicle system including fuel delivery, carburation, powerhead,
 exhaust, cooling, drive, transmission, traction, and steering.
 All that's left to make a complete boat is a hull and a fuel tank.
 
-In this course we'll be wrenching on the OMC Evinrude/Johnson
+In this course we'll be wrenching on the OMC Johnson/Evinrude
 9.9 and 15 HP motors manufactured from 1974 to 1992.
 This motor is reliable, easy to work on, and parts are still readily available.
 It is light enough that two kids can lift it on to a motor stand or boat transom
@@ -50,8 +50,31 @@ within 15 minutes and Orcas Island in under an hour.
 [LeeRoy's Ramblings](https://www.leeroysramblings.com/) is an excellent collection of
 repair articles written by Washington's own LeeRoy Wisner.
 
-- [OMC 2 Cycle Outboard Motor Info and Repair](https://www.leeroysramblings.com/Outboard%20Motor%20Related/OMC%20outboard%20related%20articles.html)
+- [OMC Johnson/Evinrude 2 Cycle Outboard Motor Info and Repair](https://www.leeroysramblings.com/Outboard%20Motor%20Related/OMC%20outboard%20related%20articles.html)
 - [Johnson/Evinrude 9.9 / 15 hp  General Info & Normal Repairs 1974 - 1992](https://www.leeroysramblings.com/Johnson%209.9_15.htm) (**required reading**)
+
+[Brandon's Garage](https://www.youtube.com/c/BrandonsGarage/videos) is a great collection of
+outboard motor repair videos, many of which focus on the Johnson/Evinrude 9.9/15.
+The following sequence is a complete Johnson 15 HP rebuild (**required watching**):
+
+- [Johnson 15 HP Rebuild; Part 1, Teardown](https://www.youtube.com/watch?v=WcJJtxvS53o)
+- [Johnson 15 HP Rebuild; Part 2, Cleanup](https://www.youtube.com/watch?v=DgmICyrPiic)
+- [Johnson 15 HP Rebuild; Part 3, Crankcase](https://www.youtube.com/watch?v=mOyQdRoy2TE)
+- [Johnson 15 HP Rebuild; Part 4, Finalizing and Painting](https://www.youtube.com/watch?v=VKGH6GCHKDU)
+- [Johnson 15 HP Rebuild; Part 5, Installing Powerhead](https://www.youtube.com/watch?v=qEWj9v8oUI8)
+- [Johnson 15 HP Rebuild; Part 6, Carburetor](https://www.youtube.com/watch?v=k6bzQZn3i7Q)
+- [Johnson 15 HP Rebuild; Part 7, Choke Solenoid](https://www.youtube.com/watch?v=NNqed_dEiGE)
+- [Johnson 15 HP Rebuild; Part 8; Fuel and Electrical](https://www.youtube.com/watch?v=TL4wiPcsWFg)
+- [Johnson 15 HP Rebuild; Part 9; Ignition Replace](https://www.youtube.com/watch?v=jwuSmiKJabU)
+- [Johnson 15 HP Rebuild Part 10; Gearcase](https://www.youtube.com/watch?v=j2TkhdsHE6Y)
+- [Johnson 15 HP Rebuild Part 11; Water Pump and Gearcase Install](https://www.youtube.com/watch?v=wpiC3aKQbSs)
+- [Johnson 15 HP Rebuild Part 12; Starter and Finishing Touches](https://www.youtube.com/watch?v=3kQ3-kK2tRU)
+- [Johnson 15 HP Rebuild Part 13; Test Start](https://www.youtube.com/watch?v=SfhZI1dYwh8)
+
+Cool!  Twin 15s!
+
+- [Twin Johnson / Evinrude 15 HP Install Part 1](https://www.youtube.com/watch?v=DJ9eL32xAM0)
+- [Twin Johnson / Evinrude 15 HP Install Part 2; Finalising & Thoughts](https://www.youtube.com/watch?v=Cb4Sxfr7Zdc)
 
 
 # Units
@@ -75,8 +98,16 @@ repair articles written by Washington's own LeeRoy Wisner.
 6) Remove propeller shaft and reverse gear.
 7) Remove clutch dog.
 8) Inspect gearcase.
+9) Reassemble clutch dog, driveshaft, and reverse gear.
+10) Replace driveshaft seal.
+11) Replace propeller shaft seal.
+12) Replace propeller shaft bearing housing O-ring.
+13) Reinstall shaft bearing housing.
+14) Reinstall propeller.
+15) Install new waterpump.
+16) Refill gearbox oil.
 
-- Lower unit 
+
 
 
 
