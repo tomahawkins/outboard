@@ -1,4 +1,4 @@
-# Outboard Maintenance Course Syllabus
+# Outboard Motor Maintenance Course Syllabus
 
 Objectives:
 
@@ -16,6 +16,7 @@ Objectives:
   - Leather gloves
   - Disposable nitrile gloves
 - Tools
+  - Notebook with pen or pencil
   - SAE (non-metric) combination wrench set
     - Box and open end
     - Common sizes on motor: 3/8" - 9/16"
@@ -25,7 +26,7 @@ Objectives:
   - Phillips #2 and #3 and slotted screwdrivers 
   - Needle nose pliers
   - Diagonal cutting pliers
-  - Toolbox to keep it all
+  - Toolbox
 
 
 # Overview
@@ -45,7 +46,50 @@ Mounted on a lightweight hull, the 15 HP will achieve 22 knots, putting Lummi Is
 within 15 minutes and Orcas Island in under an hour.
 
 
+# Safety
+
+- Wear mask and eye protection at all times.
+- Wear ear protection when operating or near to loud machinery.
+- Wear leather gloves when there is risk of hand injury.
+- Wear nitrile gloves or wash hands frequently.
+- Fire extinguisher, first aid kit, eye flush kit is on hand in garage.
+- Hose and soap available outside garage.
+
+
+# Class Routine
+
+We will start each class by reviewing the challenge problems from the previous lesson.
+These will be mathematical and engineering in nature, related to the current material we
+are exploring in the course.
+
+We will then have a brief lecture, covering the work planned for the day
+and delving into various engineering topics.
+The lecture will conclude with a new challenge problem for
+the week that students are expected to attempt before the next class.
+
+The rest class is dedicated to working on our motors,
+performing the planned tasks.
+
+We conclude each class with clean up consisting of:
+
+1. Reassembling our motors to the best extent.
+2. Organizing loose parts in bags with labels, placing all parts in the part box.
+3. Cleaning the workstation and floor ensuring it is free of dirt, grease, and oil.
+4. Moving the motors, motor stands, workbenches, and parts boxes out of the way so Aruna can park her car.
+
+
 # Resources
+
+The official service manual is getting harder to find, but highly recommended if you
+find a reasonably priced copy.  Search for "OMC Service Manual, 9.9 Thru 30 Models".
+Make sure the copyright is between years 1974-1992.  Here are a recent few hits:
+
+- [AbeBooks](https://www.abebooks.com/servlet/BookDetailsPL?bi=22821650917&cm_mmc=ggl-_-COM_Shopp_Rare-_-naa-_-naa&gclid=EAIaIQobChMIxtOj-_LZ6wIVqxatBh1kgAATEAQYASABEgJ8RfD_BwE)
+- [bonanza 1](https://www.bonanza.com/listings/OMC-Evinrude-Johnson-Outboards-9-9-Thru-30-Models-Service-Manual-P-N-508142/886011936?goog_pla=1&gpid=339470924329&keyword=&goog_pla=1&pos=&ad_type=pla&gclid=EAIaIQobChMIxtOj-_LZ6wIVqxatBh1kgAATEAQYAiABEgJWFfD_BwE)
+- [bonanza 2](https://www.bonanza.com/listings/OMC-Evinrude-Johnson-9-9-Thru-30-Models-Outboards-Service-Manual-P-N-507946/886143155?goog_pla=1&gpid=339470924329&keyword=&goog_pla=1&pos=&ad_type=pla&gclid=EAIaIQobChMIxtOj-_LZ6wIVqxatBh1kgAATEAQYBiABEgI89fD_BwE)
+- [bonanza 3](https://www.bonanza.com/listings/OMC-Evinrude-Johnson-Outboards-9-9-Thru-30-Models-Service-Manual-P-N-507871/886027061?goog_pla=1&gpid=339470924329&keyword=&goog_pla=1&pos=&ad_type=pla&gclid=EAIaIQobChMIxtOj-_LZ6wIVqxatBh1kgAATEAQYCyABEgJ-9_D_BwE)
+- [ebay 1](https://www.ebay.com/i/303195898249?chn=ps&mkevt=1&mkcid=28)
+- [ebay 2](https://www.ebay.com/i/233687706272?chn=ps&mkevt=1&mkcid=28)
 
 [LeeRoy's Ramblings](https://www.leeroysramblings.com/) is an excellent collection of
 repair articles written by Washington's own LeeRoy Wisner.
@@ -87,46 +131,5 @@ Cool!  Twin 15s!
 
 # Units
 
-## Outboard Motor Overview
-
-- Identify and describe all major sub-systems.
-- Things to look for:
-  - Grim build-up: fuel leaks.
-  - Corrosion.
-  - Paint flaking, heat scalding.
-  - Odd parts: hints of previous, poorly made repairs.
-
-## Lower Unit
-
-1) Drain gearbox oil.
-2) Remove lower unit.
-3) Remove water pump and driveshaft.
-4) Remove propeller.
-5) Remove propeller shaft bearing housing.
-6) Remove propeller shaft and reverse gear.
-7) Remove clutch dog.
-8) Inspect gearcase.
-9) Reassemble clutch dog, driveshaft, and reverse gear.
-10) Replace driveshaft seal.
-11) Replace propeller shaft seal.
-12) Replace propeller shaft bearing housing O-ring.
-13) Reinstall shaft bearing housing.
-14) Reinstall propeller.
-15) Install new water pump.
-16) Refill gearbox oil.
-
-
-## Powerhead Removal
-
-## Fuel Pump Rebuild
-
-## Carburetor Rebuild
-
-## Intake Manifold Rebuild
-
-## Water Passages and Thermostat Service
-
-## Ignition Testing and Service
-
-
-
+- [Unit 1: Outboard Motor Overview](Unit1.md)
+- [Unit 2: Lower Unit](Unit2.md)
