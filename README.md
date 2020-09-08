@@ -67,8 +67,7 @@ and delving into various engineering topics.
 The lecture will conclude with a new challenge problem for
 the week that students are expected to attempt before the next class.
 
-The rest class is dedicated to working on our motors,
-performing the planned tasks.
+The rest of class we will be working on our motors, performing the planned tasks for the day.
 
 We conclude each class with clean up consisting of:
 
