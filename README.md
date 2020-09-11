@@ -25,6 +25,11 @@ Objectives:
     - I like tool rolls!  They are compact, organized, quiet, and last forever.
   - SAE nut driver set
   - SAE folding hex key set
+  - Deep offset box wrench for 13/16" and 7/8"
+    - If you can find one, this wrench will work for spark plugs, propeller nut, and flywheel nut.
+    - [Mcmaster Carr](https://www.mcmaster.com/5459A32/)
+    - [Amazon 1](https://www.amazon.com/Deep-Offset-Wrench-point-Double/dp/B079TK3KS9/ref=sr_1_254?dchild=1&keywords=offset+box+wrench+7%2F8%22&qid=1599853730&sr=8-254)
+    - [Amazon 2](https://www.amazon.com/CLE-CONTRECOUDEE-13-16X7-8/dp/B00B1C138Y/ref=sr_1_177?dchild=1&keywords=offset+box+wrench+7%2F8%22&qid=1599853919&sr=8-177)
   - Diagonal cutting pliers
 
 Mark tools with colored tape to identify what belong to who.
