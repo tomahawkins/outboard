@@ -10,17 +10,17 @@ Objectives:
 # Required Equipment
 
 - Notebook and pen or pencil
-- Safety Equipment:
+- **Safety Equipment**:
   - Mask, P95 recommended
   - Safety glasses
   - Ear plugs
   - Leather gloves
   - Nitrile gloves
-- Required Tools:
+- **Required Tools**:
   - SAE (non-metric) combination wrench set including sizes 3/8", 7/16", 1/2", 9/16"
-  - Phillips (#2, #3) and slotted screwdrivers 
+  - Phillips (#2, #3) and slotted screwdrivers
   - Needle nose pliers
--Recommended Tools:
+- **Recommended Tools**:
   - Tool roll or toolbox
     - I like tool rolls!  They are compact, organized, quiet, and last forever.
   - SAE nut driver set
