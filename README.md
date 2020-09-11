@@ -9,24 +9,25 @@ Objectives:
 
 # Required Equipment
 
-- Safety Equipment
-  - Mask
+- Notebook and pen or pencil
+- Safety Equipment:
+  - Mask, P95 recommended
   - Safety glasses
   - Ear plugs
   - Leather gloves
-  - Disposable nitrile gloves
-- Tools
-  - Notebook with pen or pencil
-  - SAE (non-metric) combination wrench set
-    - Box and open end
-    - Common sizes on motor: 3/8" - 9/16"
-  - SAE socket wrench set
-    - 13/16" deep socket for spark plug and prop nut
-  - SAE folding hex key set (i.e. allen wrenches)
-  - Phillips #2 and #3 and slotted screwdrivers 
+  - Nitrile gloves
+- Required Tools:
+  - SAE (non-metric) combination wrench set including sizes 3/8", 7/16", 1/2", 9/16"
+  - Phillips (#2, #3) and slotted screwdrivers 
   - Needle nose pliers
+-Recommended Tools:
+  - Tool roll or toolbox
+    - I like tool rolls!  They are compact, organized, quiet, and last forever.
+  - SAE nut driver set
+  - SAE folding hex key set
   - Diagonal cutting pliers
-  - Toolbox
+
+Mark tools with colored tape to identify what belong to who.
 
 
 # Overview
