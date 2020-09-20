@@ -15,14 +15,13 @@ Objectives:
   - Safety glasses
   - Ear plugs
   - Leather gloves
-  - Nitrile gloves
 - **Required Tools**:
   - SAE (non-metric) combination wrench set including sizes 3/8", 7/16", 1/2", 9/16"
-  - Phillips (#2, #3) and slotted screwdrivers
+  - Phillips (#1, #2, #3) and slotted screwdrivers
   - Needle nose pliers
 - **Recommended Tools**:
   - Tool roll or toolbox
-    - I like tool rolls!  They are compact, organized, quiet, and last forever.
+    - Tool roll are great!  They are compact, organized, quiet, and last forever.
   - SAE socket set
   - SAE folding hex key set
   - Diagonal cutting pliers
@@ -52,7 +51,7 @@ within 15 minutes and Orcas Island in under an hour.
 - Wear mask and eye protection at all times.
 - Wear ear protection when operating or near to loud machinery.
 - Wear leather gloves when there is risk of hand injury.
-- Wear nitrile gloves or wash hands frequently.
+- Wash hands frequently.
 - Fire extinguisher, first aid kit, eye flush kit is on hand in garage.
 - Hose and soap available outside garage.
 
@@ -78,6 +77,24 @@ We conclude each class with clean up consisting of:
 4. Moving the motors, motor stands, workbenches, and parts boxes out of the way so Aruna can park her car.
 
 
+# Notebooks
+
+Notebooks are for notes, maintenance logging, and challenge problems.
+
+Motors are complicated machines.  Taking good notes along
+the way can be your best tool to manage this complexity.
+
+See something odd with your motor?  Jot it down, it may be important later.
+A pool of oil, discoloration, rust, odd looking nuts and bolts?
+This probably indicates a problem such as a broken or worn out part
+or a previous repair not done properly.
+
+Involved in a complicated disassembly?
+The time frame between disassembly and reassembly is often weeks, sometimes months.
+Write it down, draw a picture, call out labels on parts bags,
+anything to help you when it comes time to put it back together.
+
+
 # Resources
 
 The official service manual is getting harder to find, but highly recommended if you
@@ -85,11 +102,9 @@ find a reasonably priced copy.  Search for "OMC Service Manual, 9.9 Thru 30 Mode
 Make sure the copyright is between years 1974-1992.  Here are a recent few hits:
 
 - [AbeBooks](https://www.abebooks.com/servlet/BookDetailsPL?bi=22821650917&cm_mmc=ggl-_-COM_Shopp_Rare-_-naa-_-naa&gclid=EAIaIQobChMIxtOj-_LZ6wIVqxatBh1kgAATEAQYASABEgJ8RfD_BwE)
-- [bonanza 1](https://www.bonanza.com/listings/OMC-Evinrude-Johnson-Outboards-9-9-Thru-30-Models-Service-Manual-P-N-508142/886011936?goog_pla=1&gpid=339470924329&keyword=&goog_pla=1&pos=&ad_type=pla&gclid=EAIaIQobChMIxtOj-_LZ6wIVqxatBh1kgAATEAQYAiABEgJWFfD_BwE)
-- [bonanza 2](https://www.bonanza.com/listings/OMC-Evinrude-Johnson-9-9-Thru-30-Models-Outboards-Service-Manual-P-N-507946/886143155?goog_pla=1&gpid=339470924329&keyword=&goog_pla=1&pos=&ad_type=pla&gclid=EAIaIQobChMIxtOj-_LZ6wIVqxatBh1kgAATEAQYBiABEgI89fD_BwE)
-- [bonanza 3](https://www.bonanza.com/listings/OMC-Evinrude-Johnson-Outboards-9-9-Thru-30-Models-Service-Manual-P-N-507871/886027061?goog_pla=1&gpid=339470924329&keyword=&goog_pla=1&pos=&ad_type=pla&gclid=EAIaIQobChMIxtOj-_LZ6wIVqxatBh1kgAATEAQYCyABEgJ-9_D_BwE)
-- [ebay 1](https://www.ebay.com/i/303195898249?chn=ps&mkevt=1&mkcid=28)
-- [ebay 2](https://www.ebay.com/i/233687706272?chn=ps&mkevt=1&mkcid=28)
+  , [bonanza](https://www.bonanza.com/listings/OMC-Evinrude-Johnson-9-9-Thru-30-Models-Outboards-Service-Manual-P-N-507946/886143155?goog_pla=1&gpid=339470924329&keyword=&goog_pla=1&pos=&ad_type=pla&gclid=EAIaIQobChMIxtOj-_LZ6wIVqxatBh1kgAATEAQYBiABEgI89fD_BwE)
+  , [ebay 1](https://www.ebay.com/i/303195898249?chn=ps&mkevt=1&mkcid=28)
+  , [ebay 2](https://www.ebay.com/i/233687706272?chn=ps&mkevt=1&mkcid=28)
 
 [LeeRoy's Ramblings](https://www.leeroysramblings.com/) is an excellent collection of
 repair articles written by Washington's own LeeRoy Wisner.
